@@ -24,6 +24,7 @@
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -55,11 +57,13 @@
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -72,4 +76,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
