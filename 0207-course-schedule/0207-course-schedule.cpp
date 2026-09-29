@@ -1,34 +1,35 @@
 class Solution {
+    bool dfs(vector<vector<int>> &adj, vector<bool> &visited, vector<bool> &pathVisited, int node, stack<int> &st){
+        visited[node]=true;
+        pathVisited[node]=true;
+        for(int i:adj[node]){
+            if(pathVisited[i])
+                return true;
+            if(!visited[i]){
+                if(dfs(adj,visited,pathVisited,i,st))
+                    return true;
+            }
+        }
+        pathVisited[node]=false;
+        st.push(node);
+        return false;
+    }
 public:
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(n);
-        for(int i=0; i<prerequisites.size(); i++){
-            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
+        vector<vector<int>> adj(n+1);
+        for(auto &i:prerequisites){
+            adj[i[0]].push_back(i[1]);
         }
-        vector<int> indegree(n,0);
-        for(int i=0; i<n; i++){
-            for(int j:adj[i]){
-                indegree[j]++;
-            }
-        }
-        queue<int> q;
-        for(int i=0; i<n; i++){
-            if(indegree[i]==0){
-                q.push(i);
-            }
-        }
-        vector<int> res;
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            res.push_back(node);
-            for(int i:adj[node]){
-                indegree[i]--;
-                if(indegree[i]==0){
-                    q.push(i);
+        vector<bool> visited(n+1, false);
+        vector<bool> pathVisited(n+1, false);
+        stack<int> st;
+        for(int i=1; i<=n; i++){
+            if(!visited[i]){
+                if(dfs(adj,visited,pathVisited,i,st)){
+                    return false;
                 }
-            }
+            }   
         }
-        return res.size()==n;
+        return true;
     }
 };
