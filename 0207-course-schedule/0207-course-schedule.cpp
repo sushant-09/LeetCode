@@ -23,7 +23,7 @@ public:
         vector<bool> visited(n+1, false);
         vector<bool> pathVisited(n+1, false);
         stack<int> st;
-        for(int i=1; i<=n; i++){
+        for(int i=0; i<n; i++){
             if(!visited[i]){
                 if(dfs(adj,visited,pathVisited,i,st)){
                     return false;
