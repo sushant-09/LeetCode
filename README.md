@@ -58,16 +58,19 @@
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1136-parallel-courses](https://github.com/sushant-09/LeetCode/tree/master/1136-parallel-courses) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1136-parallel-courses](https://github.com/sushant-09/LeetCode/tree/master/1136-parallel-courses) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
+| [1136-parallel-courses](https://github.com/sushant-09/LeetCode/tree/master/1136-parallel-courses) |
 ## Graph Coloring
 |  |
 | ------- |
