@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushant-09/LeetCode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Hash Table
@@ -20,6 +21,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
@@ -30,11 +32,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
@@ -44,6 +48,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/sushant-09/LeetCode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
