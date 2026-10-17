@@ -33,6 +33,7 @@
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -53,6 +54,7 @@
 | [0207-course-schedule](https://github.com/sushant-09/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sushant-09/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0785-is-graph-bipartite](https://github.com/sushant-09/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sushant-09/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -131,6 +133,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sushant-09/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sushant-09/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sushant-09/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
