@@ -11,6 +11,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
@@ -145,6 +146,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sushant-09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/sushant-09/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Tree
 |  |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
