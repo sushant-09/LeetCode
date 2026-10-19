@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushant-09/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
@@ -81,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Hash Function
 |  |
@@ -135,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/sushant-09/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Tree
 |  |
