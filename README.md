@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Hash Table
@@ -95,6 +96,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Hash Function
 |  |
@@ -261,4 +263,8 @@
 | [0045-jump-game-ii](https://github.com/sushant-09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sushant-09/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sushant-09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
