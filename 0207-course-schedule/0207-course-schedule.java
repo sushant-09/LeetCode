@@ -4,7 +4,7 @@ class Solution {
         for(int i=0; i<n; i++)
             adj.add(new ArrayList<>());
         for(int[] i:prerequisites){
-            adj.get(i[0]).add(i[1]);
+            adj.get(i[1]).add(i[0]);
         }
         int [] indegree = new int[n];
         for(int i=0; i<n; i++){
