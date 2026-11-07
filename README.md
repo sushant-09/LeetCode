@@ -21,6 +21,7 @@
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sushant-09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -293,4 +296,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
