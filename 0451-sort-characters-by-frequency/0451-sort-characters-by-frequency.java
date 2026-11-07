@@ -10,7 +10,7 @@ class Solution {
         /*
         bucket: frequency -> <list of characters>
         */
-        for(int i=48; i<128; i++){
+        for(int i=0; i<128; i++){
             if(freq[i] == 0) continue;
             bucket.get(freq[i]).add((char)i);
         }
