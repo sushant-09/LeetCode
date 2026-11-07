@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/sushant-09/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sushant-09/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sushant-09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +154,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/sushant-09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1768-merge-strings-alternately](https://github.com/sushant-09/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sushant-09/LeetCode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
