@@ -34,6 +34,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/sushant-09/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sushant-09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -169,6 +170,7 @@
 | [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sushant-09/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/sushant-09/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/sushant-09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1768-merge-strings-alternately](https://github.com/sushant-09/LeetCode/tree/master/1768-merge-strings-alternately) |
