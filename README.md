@@ -34,6 +34,7 @@
 | [0133-clone-graph](https://github.com/sushant-09/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@
 | [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
@@ -164,6 +166,7 @@
 | [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sushant-09/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/sushant-09/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1768-merge-strings-alternately](https://github.com/sushant-09/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
