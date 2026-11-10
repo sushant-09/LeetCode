@@ -10,14 +10,6 @@ class Solution {
             }
             map.get(key).add(word);
         }
-        List<List<String>> res = new ArrayList<>();
-        for(Map.Entry<String,List<String>> entry : map.entrySet()){
-            List<String> group = new ArrayList<>();
-            for(String word:entry.getValue()){
-                group.add(word);
-            }
-            res.add(group);
-        }
-        return res;
+        return new ArrayList<>(map.values());
     }
 }
