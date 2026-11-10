@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/sushant-09/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/sushant-09/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/sushant-09/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sushant-09/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sushant-09/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sushant-09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushant-09/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sushant-09/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sushant-09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -113,6 +115,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sushant-09/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sushant-09/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
@@ -169,6 +172,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sushant-09/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sushant-09/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sushant-09/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sushant-09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/sushant-09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
