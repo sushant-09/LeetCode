@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Dynamic Programming
@@ -116,6 +118,7 @@
 | [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sushant-09/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Hash Function
@@ -181,6 +184,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sushant-09/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/sushant-09/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Tree
 |  |
@@ -246,6 +250,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/sushant-09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sushant-09/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sushant-09/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sushant-09/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Lifting
 |  |
