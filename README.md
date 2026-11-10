@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
@@ -32,6 +33,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/sushant-09/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Dynamic Programming
@@ -110,6 +112,7 @@
 | [0075-sort-colors](https://github.com/sushant-09/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sushant-09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sushant-09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
