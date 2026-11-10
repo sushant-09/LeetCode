@@ -16,6 +16,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sushant-09/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sushant-09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sushant-09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sushant-09/LeetCode/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@
 | [0076-minimum-window-substring](https://github.com/sushant-09/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sushant-09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/sushant-09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sushant-09/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/sushant-09/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sushant-09/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -109,6 +111,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sushant-09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sushant-09/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sushant-09/LeetCode/tree/master/0200-number-of-islands) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
