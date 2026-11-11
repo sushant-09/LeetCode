@@ -29,6 +29,7 @@
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sushant-09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sushant-09/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | [0525-contiguous-array](https://github.com/sushant-09/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sushant-09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sushant-09/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/sushant-09/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sushant-09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sushant-09/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
