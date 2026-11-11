@@ -25,6 +25,7 @@
 | [0274-h-index](https://github.com/sushant-09/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sushant-09/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/sushant-09/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/sushant-09/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sushant-09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
@@ -47,6 +48,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sushant-09/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sushant-09/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sushant-09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/sushant-09/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sushant-09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/sushant-09/LeetCode/tree/master/0694-number-of-distinct-islands) |
 ## Dynamic Programming
@@ -339,6 +341,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/sushant-09/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sushant-09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sushant-09/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
